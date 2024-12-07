@@ -65,7 +65,6 @@ google-auth==2.27.0
 google-auth-oauthlib==1.2.1
 google-cloud-core==2.4.1
 google-cloud-storage==2.8.0
-google-colab @ file:///colabtools/dist/google_colab-1.0.0.tar.gz
 google-crc32c==1.6.0
 google-pasta==0.2.0
 google-resumable-media==2.7.2
