@@ -114,7 +114,6 @@ lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
 librosa==0.10.2.post1
-tensorflow==2.11.0  # As an example if Python 3.10 environment is used
 lime==0.2.0.1
 llvmlite==0.43.0
 marisa-trie==1.2.1
